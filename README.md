@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalpeshmakwana1901&label=Profile%20views&color=0e75b6&style=flat" alt="kalpeshmakwana1901" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalpeshmakwana1901" alt="kalpeshmakwana1901" /></a> </p>
+<p align="left"> <a href="https://github.com/kalpeshmakwana1901"><img src="https://github-profile-trophy.vercel.app/?username=kalpeshmakwana1901" alt="kalpeshmakwana1901" /></a> </p>
 
 - 🌱 I’m currently learning **Python & AI/ML**
 
