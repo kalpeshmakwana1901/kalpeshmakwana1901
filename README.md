@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=kalpeshmakwana1901&label=Profile%20views&color=0e75b6&style=flat" alt="kalpeshmakwana1901" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/kalpeshmakwana1901">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg&theme=onedark&margin-w=15&margin-h=15" alt="trophies" />
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
