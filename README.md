@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/kalpeshmakwana1901">
     <img src="https://github-profile-trophy.vercel.app/?username=kalpeshmakwana1901&theme=onedark&margin-w=15&margin-h=15" alt="trophies" />
   </a>
 </p>
@@ -63,14 +63,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalpeshmakwana1901&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalpeshmakwana1901&theme=tokyonight" alt="streak" />
-</p>
-
----
 
 ### ⚡ Fun Fact
 
